@@ -1,6 +1,6 @@
 node_modules
 # Keep environment variables out of version control
 .env
-2024-08-15_11-38_sauv_bdd_moodlelacena7__pour_migration_serveur.sql
-2024-08-15_dossier_data_plateforme_moodle_pour_migration_serveur
+# 2024-08-15_11-38_sauv_bdd_moodlelacena7__pour_migration_serveur.sql
+# 2024-08-15_dossier_data_plateforme_moodle_pour_migration_serveur
 # 2024-08-15_Fichiers_plateforme_moodle_pour_migration_serveur
